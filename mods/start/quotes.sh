@@ -197,7 +197,7 @@ echo "                              Dracula, Castlevania ~ Symphony of the Night
 }
 
 quote50 () {
-echo "It's time to kick ass and chew bubble gun... and I'm all out of gum." > /pg/var/startup.quote
+echo "It's time to kick ass and chew bubble gum... and I'm all out of gum." > /pg/var/startup.quote
 echo "                                                Duke Nukem ~ Duke Nukem 3D" > /pg/var/startup.source
 }
 
